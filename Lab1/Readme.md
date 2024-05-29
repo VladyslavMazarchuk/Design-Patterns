@@ -1,6 +1,6 @@
 # Lab 1
 
-## Code Test Result from [Main Method](./Program.cs#L3-L36)
+## Code Test Result from [Main Method](./program.cs#L3-L36)
 ![Test Result](https://github.com/VladyslavMazarchuk/Design-Patterns/raw/master/Lab1/Result.png)
 
 ## Description of the Code
